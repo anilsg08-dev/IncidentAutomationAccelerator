@@ -1,1 +1,7 @@
-
+IncidentID	Category	Severity	Timestamp	Description	SuggestedFix	ResolutionStatus	ResolutionTimeMin
+101	ERP Sync	High	27-04-2026 14:30	Order sync failed in ERP	Restart ERP Service	Pending	
+102	eCommerce	Medium	27-04-2026 15:10	Payment gateway timeout	Clear Cache	Pending	
+103	Database	High	27-04-2026 16:05	ETL job failed during nightly load	Rerun ETL Job	Pending	
+104	Network	Low	27-04-2026 16:45	Intermittent latency detected	Check Network Logs	Pending	
+105	CRM	Medium	27-04-2026 17:20	Customer profile update error	Restart CRM Service	Pending	
+106	Reconciliation	High	27-04-2026 18:00	Financial reconciliation mismatch	Re-run SQL Validation	Pending	
